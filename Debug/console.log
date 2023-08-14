@@ -1,0 +1,10 @@
+
+**** Build of configuration Debug for project Tasking_TC397_UART_Logging ****
+
+"D:\\App\\Tasking6_3_Install\\ctc\\bin\\amk" -j8 all 
+
+Time consumed: 2935 ms
+**** End of build ****
+
+Tool info: 
+TASKING program builder v6.3r1 Build 19041558
